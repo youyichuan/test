@@ -2,5 +2,4 @@ java虚拟机
 JMM
 happen before
 java.utils.concurrent
-yyy内存
-xxx内存
+工作内存
