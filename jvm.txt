@@ -3,3 +3,4 @@ JMM
 happen before
 java.utils.concurrent
 yyy内存
+xxx内存
