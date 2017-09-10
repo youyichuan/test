@@ -1,0 +1,4 @@
+java虚拟机
+JMM
+happen before
+java.utils.concurrent
